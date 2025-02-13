@@ -1,6 +1,6 @@
 [project]
 name = "sdflab"
-version = "0.2.0"
+version = "0.2.0.1"
 description = "Generate 3D meshes from signed distance functions."
 authors = [{ name = "Michael Fogleman", email = "michael.fogleman@gmail.com" }]
 license = { text = "MIT" }
